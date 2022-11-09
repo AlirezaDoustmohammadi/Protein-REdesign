@@ -8,4 +8,4 @@ The ATX1 metalloperoxidase protein was redesigned using the OSPREY tool
 <h2>What can we do with OSPREY to redesign proteins?</h2>
 My lecture explained it in detail:
 
-https://www.youtube.com/watch?v=ZIb1wXRSHzI
+https://youtu.be/ZIb1wXRSHzI
